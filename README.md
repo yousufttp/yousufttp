@@ -62,7 +62,7 @@ A router-driven FAQ application with specialized agents, semantic retrieval, sho
 
 ## Explore My Work
 
-[AI-Learning Repository](https://github.com/yousufttp/AI-Learning) · [GitHub Profile](https://github.com/yousufttp)
+[LLM Apps](https://github.com/yousufttp/llm-apps) · [GitHub Profile](https://github.com/yousufttp)
 
 <!-- Add verified LinkedIn URL and public contact email here if desired. -->
 
