@@ -2,7 +2,7 @@
 
 # Hi, I'm Yousuf 👋
 
-### Applied AI Engineering | AI Agents | Backend Engineering | AIOps
+### Applied AI Engineering | AI Agents | AIOps | ReactJS
 
 ![Focus](https://img.shields.io/badge/Focus-Production_AI_Systems-7C3AED?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Based_in-New_Jersey_USA-4C1D95?style=for-the-badge)
